@@ -9,7 +9,7 @@ Open PowerShell in the project folder and run:
 ```powershell
 g++ -std=c++17 main.cpp FileOrganizer.cpp CategoryManager.cpp -o File_Organizer.exe
 ```
-### 2.Go into the folder where the executable is located (CLion usually puts it in cmake-build-debug):
+### 2.Run the program
 
 ```powershell
 .\File_Organizer.exe
