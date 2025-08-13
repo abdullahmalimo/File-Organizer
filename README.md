@@ -12,7 +12,6 @@ g++ -std=c++17 main.cpp FileOrganizer.cpp CategoryManager.cpp -o File_Organizer.
 ### 2.Go into the folder where the executable is located (CLion usually puts it in cmake-build-debug):
 
 ```powershell
-cd "cmake-build-debug"
 .\File_Organizer.exe
 ``` 
 
